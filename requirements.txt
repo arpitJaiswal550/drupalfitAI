@@ -4,5 +4,4 @@ langchain-community
 langchain-google-genai
 python-dotenv
 chromadb
-pysqlite3
 pysqlite3-binary
