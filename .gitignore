@@ -53,5 +53,5 @@ Thumbs.db
 .gitattributes
 
 # vectorstore
-chroma_db_index_drupalfit
-chroma_db_index_drupalfit_osl
+# chroma_db_index_drupalfit
+# chroma_db_index_drupalfit_osl
